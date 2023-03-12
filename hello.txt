@@ -11,8 +11,7 @@ hello world !
 hello world !
 hello world !
 <<<<<<< HEAD
-hello world !88888999999999999999999`:wq8
-=======
+hello world !888888888888888
 hello world !9999999099999
 >>>>>>> hot_fix
 hello worlr
